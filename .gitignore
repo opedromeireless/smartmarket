@@ -141,3 +141,10 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+target/
+*.class
+.idea/
+*.iml
+node_modules/
+.env
